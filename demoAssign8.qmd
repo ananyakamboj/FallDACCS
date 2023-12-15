@@ -5,6 +5,10 @@ format: html
 editor: visual
 ---
 
+\"What did you eat for today\'s lunch?\"
+
+I ate a veggie sandwich at Franklin Dining Commons with some chips and ginger ale on the side.
+
 ## Quarto
 
 Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
